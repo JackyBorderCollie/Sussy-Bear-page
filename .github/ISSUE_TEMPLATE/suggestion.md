@@ -13,7 +13,7 @@ What should JackyBorderCollie add?
 **Where should it be?**
 Say the position of it.
 
-**Does it include Sussy Bear?
+**Does it include Sussy Bear?**
 Say Yes or No. No lying.
 
 **Insert a mockup here**
