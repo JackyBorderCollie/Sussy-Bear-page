@@ -1,1 +1,2 @@
-ok
+### Sussy Bear Proboards page
+Hello. This is a page that you can get when getting the 502/503 error on Proboards. As you can see, there is a blue bear named Sussy Bear, who is wrecking the servers. If you cannot see it, well, visit the page. You can even use Inspect Element if you want to create funny versions of the 502/503 page! Anyways, hope you like this sussy restoration/save of the 502/503 page from Proboards. If you have any suggestions, suggest them at the Issues tab! Also this cannot have bugs as it is just a html file lol.
